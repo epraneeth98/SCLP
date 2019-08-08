@@ -1,2 +1,2 @@
 # SCLP
-Small C like program
+Simple C like program
